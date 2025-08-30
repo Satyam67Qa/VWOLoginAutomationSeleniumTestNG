@@ -1,0 +1,1 @@
+{"uuid":"1e930747-504d-43ba-a3de-de8890fe36ec","name":"com.testNG.GoogleTest.setUp","children":["a6533a58-f551-4662-a9e6-d23df18798b9"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1756271999429,"stop":1756272001691}],"afters":[],"start":1756271999429,"stop":1756272001691}

@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Workspace/VWOLoginAutomationSeleniumTestNG"><classes><class name="com.thetestingacadmy.TestVWOLogin"><methods><include name="tesValidLogin"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FB test Suite" verbose="5">
+    <test  preserve-order="true" name="/TestNGOprationFROMXMLFILE.java">
+        <classes>
+            <class name="com.testNG.TestNGOprationFROMXMLFILE">
+                <methods>
+                    <include name="FBTitleTest1"/>
+                    <include name="FBTitleTest2"/>
+                    <include name="FBTitleTest3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

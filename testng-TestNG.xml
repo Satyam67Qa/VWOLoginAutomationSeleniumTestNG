@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNg session">
+    <test verbose="2" preserve-order="true"
+          name="C:/Workspace/VWOLoginAutomationSeleniumTestNG/src/test/java/com/testNG">
+        <classes>
+            <class name="com.testNG.GoogleTest">
+                <methods>
+                    <include name="googleTitleTest"/>
+                    <include name="googleLinkGmail"/>
+                    <include name="googleLinkImages"/>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                </methods>
+            </class>
+            <class name="com.testNG.GoogleTitleTest">
+                <methods>
+                    <include name="googleTitleTest"/>
+                    <include name="googleLinkGmail"/>
+                </methods>
+            </class>
+            <class name="com.testNG.InvacationCountTest">
+                <methods>
+                    <include name="Test2"/>
+                </methods>
+            </class>
+            <class name="com.testNG.TestNGFeatures">
+                <methods>
+                    <include name="loginTest"/>
+                    <include name="homePageTest"/>
+                </methods>
+            </class>
+            <class name="com.testNG.TestNgBasics">
+                <methods>
+                    <include name="googleTitleTest"/>
+                    <include name="searchTest"/>
+                    <include name="googleLogoTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

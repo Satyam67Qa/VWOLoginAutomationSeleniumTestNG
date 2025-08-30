@@ -1,0 +1,1 @@
+{"uuid":"560d7ac9-54c1-4969-ad1a-b503d9895192","name":"com.test.TestNgBasics.logOut","children":["cd79d07f-5ee2-40f0-901d-d6390debeb9e"],"description":"","befores":[],"afters":[{"name":"logOut","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1756227635290,"stop":1756227635290}],"start":1756227635290,"stop":1756227635290}

@@ -1,6 +1,5 @@
 VWOLoginAutomationSelenium
 
-
 - Java 20
 - TestNG
 - Maven
