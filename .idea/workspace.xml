@@ -7,6 +7,7 @@
     <list default="true" id="f4b4185b-4172-45f1-bdab-044059577498" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thetestingacadmy/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="30kFVJSNtkheg410FEwwHHaaKx0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -55,7 +56,12 @@
       <recent name="C:\Workspace\VWOLoginAutomationSeleniumTestNG\src\test\java\com\TestDataFacebookReg" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\VWOLoginAutomationSeleniumTestNG\src\test\resources" />
+      <recent name="C:\Workspace\VWOLoginAutomationSeleniumTestNG\src\main\java\logfilesboth" />
       <recent name="C:\Workspace\VWOLoginAutomationSeleniumTestNG" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.thetestingacadmy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.thetestingacadmy.vwo.pages.pageObjectModel.pageObjectFactory" />
@@ -67,13 +73,39 @@
       <command value=" mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Workspace/VWOLoginAutomationSeleniumTestNG/testng-retry.xml">
+  <component name="RunManager" selected="Application.com.Demo.Log4jDemo">
     <configuration name="ExcelOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.datadriven.test.ExcelOperations" />
       <module name="VWOLoginAutomationSeleniumTestNG" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.datadriven.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Log4jDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmy.Log4jDemo" />
+      <module name="VWOLoginAutomationSeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacadmy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.Demo.Log4jDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Demo.Log4jDemo" />
+      <module name="VWOLoginAutomationSeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,37 +123,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Workspace/VWOLoginAutomationSeleniumTestNG/testng_Parameter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VWOLoginAutomationSeleniumTestNG" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_Parameter.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Workspace/VWOLoginAutomationSeleniumTestNG/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="VWOLoginAutomationSeleniumTestNG" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParmeterTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="VWOLoginAutomationSeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.parameters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.parameters" />
-      <option name="MAIN_CLASS_NAME" value="com.parameters.ParmeterTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
       <method v="2">
@@ -130,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.Demo.Log4jDemo" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="Application.Log4jDemo" />
         <item itemvalue="TestNG.C:/Workspace/VWOLoginAutomationSeleniumTestNG/testng-retry.xml" />
         <item itemvalue="Application.ExcelOperations" />
-        <item itemvalue="TestNG.C:/Workspace/VWOLoginAutomationSeleniumTestNG/testng_Parameter.xml" />
-        <item itemvalue="TestNG.ParmeterTest" />
-        <item itemvalue="TestNG.C:/Workspace/VWOLoginAutomationSeleniumTestNG/testng.xml" />
       </list>
     </recent_temporary>
   </component>
